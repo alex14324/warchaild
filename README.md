@@ -5,7 +5,6 @@ against different kinds of denial of service attacks you will be facing which ar
 organised by crooks to cause damage to your website..
   
 
-![Alt text](http://oi64.tinypic.com/23uquzt.jpg "Screenshot")
 
 # Installation
 ```
@@ -55,15 +54,8 @@ soon as possible .
 # Author 
 
 Souhardya Sardar is an independent security analyst and programmer who loves to break things in order to secure them.
-Github :- github.com/Souhardya 
+Github :- github.com/alex14324
  
-# Donate and contact :3 
-
-If you want to do any python based project with me please kindly mail me at Souhardya.sardar@protonmail.com
-
-If you like my code :3 buy me a beer 
-
-Bitcoin Address :- 1EyfivBCpdxKonG9imh8Mib3Bgeuy8cV8F
 
 
 # Illegal Usage is prohibited !!
